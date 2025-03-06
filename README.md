@@ -63,8 +63,12 @@ Thank you for using the ATM!
    ```sh
    git clone https://github.com/GaneshKantle/ATM-Interface-using-Java.git
    cd ATM-Interface-using-Java
-
-2. Compile and Run:
+   
+2. File Name to save:
+   ```
+   ATMSimulation.java
+   
+3. Compile and Run:
    ```
    javac sourcecode.java
    java ATMSimulation
