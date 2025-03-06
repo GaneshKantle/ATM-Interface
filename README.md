@@ -7,7 +7,7 @@ This **ATM Simulation** is a simple Java console-based application that allows u
 ## 🏗 Project Structure
 ```
 Directory structure:
-└── ganeshkantle-atm-interface/
+└── ganeshkantle-atm-interface-using-java/
     ├── README.md
     └── sourcecode.java
 ```
