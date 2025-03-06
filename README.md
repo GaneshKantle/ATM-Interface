@@ -58,7 +58,7 @@ Thank you for using the ATM!
 
 
 ## 📦 How to Run
-## 📦 How to Run
+
 1. Clone the repository:
    ```sh
    git clone https://github.com/GaneshKantle/ATM-Interface-using-Java.git
@@ -70,11 +70,11 @@ Thank you for using the ATM!
    java ATMSimulation
 
 
-🏆 Future Improvements
-🔹 Implement a Graphical User Interface (GUI)
-🔹 Add User Authentication (PIN/Password)
-🔹 Support for Multiple Accounts
-🔹 Integrate a Database for Transaction Records
+## 🏆 Future Improvements
+- `1` → Implement a Graphical User Interface (GUI)
+- `2` → Add User Authentication (PIN/Password)
+- `3` → Support for Multiple Accounts
+- `4` → Integrate a Database for Transaction Records
 
 
 ## 📬 Contact
